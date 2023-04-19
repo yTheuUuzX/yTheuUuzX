@@ -9,6 +9,8 @@
   </p>
 
 <div align="center">
-    <img alt="yTheuuszBR Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=yTheuuszBR&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=&title_color=36BCF7FF&icon_color=F8D866" height="192px"/></a>
-    <img alt="yTheuuszBR Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=yTheuuszBR&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=36BCF7FF&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <a href="https://github.com/JustAWaifuHunter">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yTheuuszBR&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=true&bg_color=&title_color=36BCF7FF&icon_color=F8D866&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yTheuuszBR&theme=dracula&hide_border=true&bg_color=1F222E&title_color=36BCF7FF&icon_color=F8D866&&&layout=compact"/>
+  </a>
 </div>
