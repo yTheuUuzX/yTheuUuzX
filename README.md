@@ -9,8 +9,14 @@
   </p>
 
 <div align="center">
-  <a href="https://github.com/JustAWaifuHunter">
+  <a href="https://github.com/yTheuuszBR">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yTheuuszBR&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=true&bg_color=&title_color=36BCF7FF&icon_color=F8D866&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yTheuuszBR&theme=dracula&hide_border=true&bg_color=1F222E&title_color=36BCF7FF&icon_color=F8D866&&&layout=compact"/>
   </a>
 </div>
+
+<h3>👨‍💻 Linguagem de Programação e Marcação</h3>
+
+![JavaScript](https://img.shields.io/badge/javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-43853D?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
