@@ -20,3 +20,4 @@
 ![NodeJS](https://img.shields.io/badge/node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-43853D?style=for-the-badge&logo=mongodb&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![LUA](https://img.shields.io/badge/lua-0b0080?style=for-the-badge&logo=lua&logoColor=white)
