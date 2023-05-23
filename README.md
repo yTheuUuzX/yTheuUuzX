@@ -1,5 +1,5 @@
 <div>
-   <h2 align="center">Hi, how are you? I'm <a href="https://github.com/DeusDrizzyy">yTheuuszBR</a> 😃️</h2>
+   <h2 align="center">Hi, how are you? I'm <a href="https://github.com/DeusDrizzyy">DeusDrizzyy</a> 😃️</h2>
 </div>
 
 <p align="center">
@@ -9,14 +9,16 @@
 <div align="center">
   <a href="https://github.com/yTheuuszBR">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yTheuuszBR&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=true&bg_color=&title_color=36BCF7FF&icon_color=F8D866&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yTheuuszBR&layout=compact&langs_count=7&theme=github_dark&custom_title=Most%20Used%20Languages:"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yTheuuszBR&layout=compact&langs_count=7&theme=dracula&bg_color=&title_color=36BCF7FF&custom_title=Most%20Used%20Languages:"/>
   </a>
 </div>
 
 <div align="center" valign="top"><br/>
-   <img align="center" title="Javascript" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" title="Node.js" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-   <img align="center" title="MongoDB" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+   <a href="https://github.com/yTheuuszBR">
+      <img align="center" title="Javascript" alt="Javascript" src="https://img.shields.io/badge/javascript-f8dc4c?style=for-the-badge&logo=mongodb&logoColor=white">
+   <img align="center" title="Node.js" alt="Node.js" src="https://img.shields.io/badge/node.js-539E43?style=for-the-badge&logo=node.js&logoColor=white">
+   <img align="center" title="MongoDB" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-3e8339.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+   </a>
 </div>
 
 <div align="center">
