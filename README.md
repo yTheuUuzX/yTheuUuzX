@@ -1,5 +1,5 @@
 <div>
-   <h2 align="center">Hi, how are you? I'm <a href="https://github.com/DeusDrizzyy">DeusDrizzyy</a> 😃️</h2>
+   <h2 align="center">Hi, how are you? I'm <a href="https://github.com/yTheuuszBR">yTheuuszBR</a> 😃️</h2>
 </div>
 
 <p align="center">
@@ -17,7 +17,8 @@
    <a href="https://github.com/yTheuuszBR">
       <img align="center" title="Javascript" alt="Javascript" src="https://img.shields.io/badge/javascript-f8dc4c?style=for-the-badge&logo=mongodb&logoColor=white">
    <img align="center" title="Node.js" alt="Node.js" src="https://img.shields.io/badge/node.js-539E43?style=for-the-badge&logo=node.js&logoColor=white">
-   <img align="center" title="MongoDB" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-3e8339.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+   <img align="center" title="MongoDB" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-357531.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+   <img align="center" title="Lua" alt="Lua" src="https://img.shields.io/badge/Lua-000081.svg?style=for-the-badge&logo=lua&logoColor=white">
    </a>
 </div>
 
