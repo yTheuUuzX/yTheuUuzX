@@ -21,3 +21,5 @@
    <img align="center" title="Lua" alt="Lua" src="https://img.shields.io/badge/Lua-000081.svg?style=for-the-badge&logo=lua&logoColor=white">
    </a>
 </div>
+
+![Snake animation of GitHub contribution stats](https://raw.githubusercontent.com/ThaTiemsz/ThaTiemsz/output/snake.svg)
