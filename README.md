@@ -3,8 +3,14 @@
 </div>
 
 <p align="center">
+    <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=6000&pause=1000&center=true&vCenter=true&random=false&width=435&separator=%3C&lines=public+static+void+main+(String%5B%5D+args)+%7B%3CSystem.out.printl(%22Hello+World%22);" />
+  </p>
+
+<!--  
+<p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&repeat=true&width=440&height=45&lines=Hello+World" />
   </p>
+-->
 
 <div align="center">
   <a href="https://github.com/yTheuuszBR">
