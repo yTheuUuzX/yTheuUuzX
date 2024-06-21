@@ -9,7 +9,7 @@
 <h3 align="center">Languages and Databases that I use</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
+  <img src="https://skillicons.dev/icons?i=java&theme=light" height="40" alt="java logo" />
    <img width="10" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
    <img width="10" />
