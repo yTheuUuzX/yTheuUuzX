@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=6000&pause=1000&center=true&vCenter=true&random=false&width=435&separator=%3C&lines=++++System.out.println(%22Welcome+to+my+github!%22)" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=6000&pause=1000&center=true&vCenter=true&random=false&width=435&separator=%3C&lines=++++System.out.println(%22Welcome+to+my+github!%22);" /></a>
   </p>
 
 <h3 align="center">Languages and Databases that I use</h3>
