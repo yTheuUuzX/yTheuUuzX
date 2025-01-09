@@ -9,7 +9,7 @@
 [![yTheuUuzX](https://github-widgetbox.vercel.app/api/profile?username=yTheuUuzX&theme=darkmode&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
 ## About Me 👋
-- 💁 I’m `yTheuUuzX`, but my real name is `Matheus Alexandre` and I am currently studying Information Systems in college.
+- 💁 I’m `yTheuUuzX`, but my real name is `Matheus Alexandre` and I'm currently studying Software Engineering in college.
 <!-- - 👀 I’m interested in Javascript, but I have contributed a few times and am interested in learning more in-depth TypeScript, Kotlin, and Java; -->
 <!-- - 🫡 Discord Partner since 09/23/2020 and part of the [Loritta](https://github.com/LorittaBot) team since 12/22/2020; -->
 <!-- - 🦊 Currently working on [Kuraminha](https://github.com/KuraminhaBot), a multifunctional Discord bot with various commands for images, music (Spotify, Last.FM), moderation, utility, and more; -->
@@ -26,7 +26,11 @@
    <img width="10" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
    <img width="10" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo" />
+  <!-- <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo" />
+  <img width="10" /> -->
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo" />
    <img width="10" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
    <img width="10" />
@@ -38,11 +42,7 @@
    <img width="10" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="sqlite logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="sqlite logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="sqlite logo" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
 </div>
 
 <!-- <h3 align="center">Programs I use</h3> -->
