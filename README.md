@@ -18,7 +18,7 @@
   - Discord ([@theuuszin](https://discord.com/users/852692680571748382));
 
 <!-- <h3 align="center">Languages and Databases that I use</h3> -->
-<h3>Languages and Databases that I use</h3>
+<h3>Languages that I use</h3>
 
 <!-- <div align="center"> -->
 <div>
@@ -29,7 +29,7 @@
   <!-- <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo" />
   <img width="10" /> -->
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" />
-  <img width="10" />
+   <img width="10" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo" />
    <img width="10" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
@@ -37,11 +37,15 @@
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
    <img width="10" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="node logo" />
-   <img width="10" />
+</div>
+
+<h3>Databases that I use</h3>
+
+<div>
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
    <img width="10" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo" />
-  <img width="10" />
+   <img width="10" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
 </div>
 
